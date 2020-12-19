@@ -12,3 +12,6 @@ table {
 	color: #000000;
 	filter: invert();
 }
+table > a {
+	color: #ffff00; /* its inverted so i invert the colour */
+}
