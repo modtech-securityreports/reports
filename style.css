@@ -7,3 +7,8 @@ body {
 	background: rgb(24, 26, 27);
 	color: rgb(206, 202, 195);
 }
+table {
+	background: #ffffff;
+	color: #000000;
+	filter: invert();
+}
