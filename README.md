@@ -1,4 +1,4 @@
-See [report-list.md](report-list.md)
+See [https://security.modtech.app/reports/report-list.html](https://security.modtech.app/reports/report-list.html)
 
 <link rel="stylesheet" href="style.css">
 
