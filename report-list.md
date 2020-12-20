@@ -7,9 +7,12 @@
 <title>Report List</title>
 <link rel="stylesheet" href="style.css">
 <script>
-  const state = { 'page_id': 1, 'user_id': 5 }
-  const title = 'Report List'
-  const url = '/reports/'
+  let state
+  let title
+  let url
+  state = { 'page_id': 1, 'user_id': 5 }
+  title = 'Report List'
+  url = '/reports/'
 
 history.pushState(state, title, url)
 </script>
